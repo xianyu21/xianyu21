@@ -1,19 +1,19 @@
 <h2> Hey there! I'm XXVI. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 关于我 </h3>
 
-- 🔭 &nbsp; I’m currently learning Vue.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions .
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 💼 &nbsp; Android developer and front-end web developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- 🔭 &nbsp; 我目前正在学习Vue3 + TS + Pinia.
+- 💼 &nbsp; 前端开发.
+- 🌱 &nbsp; 网络安全和人工智能爱好者.
+<!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions . -->
+<!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
+<!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles. -->
+<!-- - ☕ &nbsp; 我相信，一杯完美的咖啡可以是任何压力的最终解决方案.  -->
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 技术栈 </h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
+- 💻 &nbsp; vue | uniapp
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
@@ -28,7 +28,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
 
 
-<h3> 🤝🏻 Connect with Me </h3>
+<!-- <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 &nbsp; <a href="https://twitter.com/_souvik_guria" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -37,4 +37,4 @@
 &nbsp; <a href="mailto:souvikguria98@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [devSouvik](https://github.com/devSouvik)
+⭐️ From [devSouvik](https://github.com/devSouvik) -->
