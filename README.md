@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 关于我 </h3>
 
-- 🔭 &nbsp; 我目前正在学习Vue3 + TS + Pinia.
+- 🔭 &nbsp; 我目前正在学习Vue3 + Vite + TS + Pinia.
 - 💼 &nbsp; 前端开发.
 - 🌱 &nbsp; 网络安全和人工智能爱好者.
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions . -->
