@@ -20,6 +20,9 @@
 - 🖥 &nbsp;Photoshop 
 
 <br>
+<h3>仓库状态统计</h3>
+
+![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=xianyu21&show_icons=true&theme=tokyonight)
 <h3>访问量</h3>
 
 ![](http://profile-counter.glitch.me/xianyu21/count.svg)
