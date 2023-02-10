@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; 我目前正在学习Vue3 + Vite + TS + Pinia.
 - 💼 &nbsp; 前端开发.
-- 🌱 &nbsp; 网络安全和人工智能爱好者.
+- 🌱 &nbsp; 不知道写什么.
 <!-- - 🤔 &nbsp; Exploring new technologies and developing software solutions . -->
 <!-- - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics. -->
 <!-- - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles. -->
