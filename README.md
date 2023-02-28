@@ -19,6 +19,8 @@
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp;Photoshop 
 
+<h3>🛠 实用工具库 </h3>
+![Lodash.js](https://www.lodashjs.com/)
 <br>
 <h3>仓库状态统计</h3>
 
